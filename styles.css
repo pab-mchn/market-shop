@@ -160,7 +160,9 @@ body {
   padding-top: 20px;
 }
 
-@media only screen and (max-width: 600px) {
+/*se agregaron unas lineas de css con media querys para que se adapte mejor al responsive :)*/
+
+@media only screen and (max-width: 750px) {
   .modal-container {
     width: 100%;
     margin: 0;
@@ -170,31 +172,13 @@ body {
   .modal-container > .modal-content {
     justify-content: space-between;
     width: 100%;
-    margin-top: 2px;
+    margin: 2px;
   }
 
   .modal-container > div > img {
     height: 80px;
     width: 80px;
   }
-}
-
-/*Alert Style*/
-.alert {
-  padding: 16px 24px;
-  position: fixed;
-  right: 10px;
-  background: #1b1b1b;
-  color: #fff;
-  text-align: center;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
-  margin: 8px;
-  display: none;
-}
-
-.alert-border {
-  border: 2px solid #127247;
 }
 
 /*delete button product*/

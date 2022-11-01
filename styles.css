@@ -170,12 +170,12 @@ body {
   .modal-container > .modal-content {
     justify-content: space-between;
     width: 100%;
-    margin: 0px;
+    margin-top: 2px;
   }
 
   .modal-container > div > img {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
   }
 }
 

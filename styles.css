@@ -160,6 +160,25 @@ body {
   padding-top: 20px;
 }
 
+@media only screen and (max-width: 600px) {
+  .modal-container {
+    width: 100%;
+    margin: 0;
+    min-height: 88vh;
+  }
+
+  .modal-container > .modal-content {
+    justify-content: space-between;
+    width: 100%;
+    margin: 0px;
+  }
+
+  .modal-container > div > img {
+    height: 100px;
+    width: 100px;
+  }
+}
+
 /*Alert Style*/
 .alert {
   padding: 16px 24px;

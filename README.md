@@ -6,4 +6,4 @@ Always looking for the simplest possible way to make the code so that those who 
 
 
 
-You can see the youtube playlist here : https://www.youtube.com/playlist?list=PLizlJ35EN043b6tBgQCPM7qdaLdlBYwN4
+You can see the youtube playlist here : [on the code YouTube](https://www.youtube.com/playlist?list=PLizlJ35EN043b6tBgQCPM7qdaLdlBYwN4)
